@@ -6,7 +6,7 @@ app.use(bodyParser.json());
 
 const fullName = "sujith_p";  
 const dob = "19072004";
-const email = "p.sujith303@gmail.com";
+const email = "sujith.p2022@vitstudent.ac.in";
 const rollNumber = "22BPS1193";
 
 app.post("/bfhl", (req, res) => {
